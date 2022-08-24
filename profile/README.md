@@ -1,5 +1,3 @@
-![KeplerJs](keplerjs.png) 
-
 **The open source full-stack geosocial network platform**
 
 * [Official DEMO](https://demo.keplerjs.io/)
