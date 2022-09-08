@@ -2,4 +2,4 @@
 
 * [Official DEMO](https://demo.keplerjs.io/)
 * [Download last release](https://github.com/Keplerjs/Kepler/releases)
-
+* [Documentation](http://docs.keplerjs.io/)
